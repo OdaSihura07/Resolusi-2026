@@ -2,4 +2,4 @@ RESOLUSI 2026
 - Belajar PBW
 - Belajar Laravel
 - Belajar bahasa inggris
-- sudah ada judul PI
+- Membuat projek
